@@ -1,3 +1,0 @@
-# FoxtrotCZ.github.io
-
-test
