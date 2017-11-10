@@ -1,0 +1,13 @@
+https://web.archive.org/web/20161021234517/http://www.foxtrot.me/
+
+Seznam projektů na kterých jsem se podílel. Uvádím dobu své aktivní působnosti na projektu, svoji pozici a krátký popis.
+
+CzsK Army (vzpomínkové video) (říjen 2011 až srpen 2012) – spoluzakladatel – Komunita ve hře Battlefield. Kamarádův nápad a mě přibral. Staral jsem se zejména o organizaci, ale pokud si dobře vzpomínám tak i o web a TeamSpeak. Pak mi vyhořela AMD grafika (od té doby mám Nvidii) a s BF3 jsem skončil.
+ForFight (video s recenzí MC serveru) (únor až květen 2012) – spoluzakladatel – Projekt herního portálu, který zahrnoval Minecraft a BF3, neměl dlouhého trvání. Vzešel z projektu CzsK Army. V Minecraftu jsem se staral o pluginy a jejich nastavení. Brzy nám došlo, že jsme přecenili své schopnosti z hlediska času a projekt byl opuštěn ve prospěch komunity CzsK Army.
+FoxtrotPlayCZ (leden až duben 2013) – let’s player – Řekl jsem si že by mohlo být zajímavé natáčet let’s playe. Pak mi došlo, že mi to nic nedává a je to tedy vlastně jen zbytečná ztráta času. Člověk akorát získá nějaké děti jako fanoušky a to pro mě nemá žádnou hodnotu. Každopádně jsem s tím skončil.
+MLP Info (červenec 2013 až listopad 2015) – spoluzakladatel, šéfredaktor, překladatel – Informační portál o seriálu MLP: FiM. Dělal jsem na tom hodně věcí, ale v létě 2015 mě MLP přestalo bavit a navíc mi na podzim začala vysoká škola, tak jsem skončil.
+Craftuj (červen až září 2014) – helper – Minecraft server. Spíš mě bavilo pomáhat týmu s pluginy, jejich nastavením a testováním, takže pozice helpera pro mě byla spíš jen nutnost pro začátek. Vzhledem ke stavu serveru mě to ale brzy přestalo bavit, tak jsem se na to vykašlal.
+Foxtrot Plays (2014 až leden 2016) – let’s player – Napadlo mě, že bych si mohl zlepšit svoji angličtinu skrze anglické let’s playe. Ale nějak mě v průběhu let přestalo vůbec bavit hrát hry (až na výjimky), tak jsem se rozhodl skončit a věnovat svůj čas jiným věcem. Zároveň jsem si nechtěl kazit těch málo her co mě baví tím, že je budu natáčet pro let’s playe. Co se angličtiny týče, tak procvičovat mluvení se dá lépe při hraní nějaké multiplayerové hry.
+VideaČesky (říjen 2015 až únor 2016) – překladatel – Web překládající titulky k cizojazyčným videím. Bavilo mě překládat titulky z angličtiny, tak jsem se přihlásil na nábor. Škola si ale brala hodně času a já začal ztrácet chuť, tak jsem s překládáním přestal.
+GeneratePress (stránka na WordPress.org) (říjen 2015 až současnost) – překladatel – Dělám překlad této WordPress šablony do češtiny.
+Foxtrot Blog (září 2016 až současnost) – blogger – Píšu si vlastní blog.
